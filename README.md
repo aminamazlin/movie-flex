@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-a mobile movie application where you can search a movie, see trending an popular movies.
+A mobile movie application where you can search a movie, see trending and popular movies.
 
 ## Get started
 
